@@ -1,0 +1,15 @@
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\bin\Debug\net6.0\Juego_Subidas_Bajones.exe
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\bin\Debug\net6.0\Juego_Subidas_Bajones.deps.json
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\bin\Debug\net6.0\Juego_Subidas_Bajones.runtimeconfig.json
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\bin\Debug\net6.0\Juego_Subidas_Bajones.dll
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\bin\Debug\net6.0\ref\Juego_Subidas_Bajones.dll
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\bin\Debug\net6.0\Juego_Subidas_Bajones.pdb
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\Juego_Subidas_Bajones.vbproj.AssemblyReference.cache
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\Juego_Subidas_Bajones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\Juego_Subidas_Bajones.AssemblyInfoInputs.cache
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\Juego_Subidas_Bajones.AssemblyInfo.vb
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\Juego_Subidas_Bajones.vbproj.CoreCompileInputs.cache
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\Juego_Subidas_Bajones.dll
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\ref\Juego_Subidas_Bajones.dll
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\Juego_Subidas_Bajones.pdb
+C:\Users\iovan\Dropbox\PRACITCAS INTERMEDIAS\JUEGO\Juego_Subidas_Bajones\Juego_Subidas_Bajones\obj\Debug\net6.0\Juego_Subidas_Bajones.genruntimeconfig.cache
